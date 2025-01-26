@@ -1,0 +1,7 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Áªæš8¯¥üÈ2J$63bc7181-b2e2-4bc1-865d-2a01d1f0a336
+˜	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªŒŠ÷ıÿÿÿÿ8¯¥üÈ2J$a0076a00-dead-4f06-b54b-c265938eb396
+	java:S116"WRename this field "phone_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üœùÿÿÿÿ8´¥üÈ2J$b352bdd3-8528-4219-8f02-acc7dde1116c
+š	java:S116"SRename this field "Location" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎßËÏüÿÿÿÿ8´¥üÈ2J$b8901157-ad54-4245-9632-5316d76724ed
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìò—8¸¥üÈ2J$89a767ec-6424-475a-aa94-af40617f6bf9
+•	java:S100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªŒŠ÷ıÿÿÿÿ8¸¥üÈ2J$9c870db9-013d-4a0a-9ed6-cb8639d638e3
