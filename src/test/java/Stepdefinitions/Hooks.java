@@ -10,9 +10,10 @@ public class Hooks {
     public void beforeScenario() throws IOException {
 
         Stepdefinitions m = new Stepdefinitions();
-        m.addPlacePayloadWith("shetty","French","Asia");
-        m.userCallsWithHttpRequest("AddPlaceAPI","POST");
-        m.verifyPlaceIdCreatedMapsToUsing("Shetty","POST");
-
+        if(Stepdefinitions.place_id==null) {
+            m.addPlacePayloadWith("Shetty", "French", "Asia");
+            m.userCallsWithHttpRequest("AddPlaceAPI", "POST");
+            m.verifyPlaceIdCreatedMapsToUsing("Shetty", "getPlaceAPI");
+        }
     }
 }
