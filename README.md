@@ -2,7 +2,7 @@
 
 #### Author - ATUL
 
-API Automation Framework with the CRUD of Restful Booker
+API Automation Framework with the ADD AND DELETE PLACE APIS
 
 `mvn test -Dsurefire.suiteXmlFiles=testng.xml`
 
@@ -19,7 +19,7 @@ API Automation Framework with the CRUD of Restful Booker
 5. Jackson and GSON
 6. Log4j
 7. Allure Report
-8. Full Folder Structure(Hybrid) Framework.
+8.BDD frmework
 9. Jenkins File
 
 #### API Framework Important Components
